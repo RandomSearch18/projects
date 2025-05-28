@@ -1,6 +1,10 @@
 # RandomSearch's projects
 
-<!-- https://naereen.github.io/badges/ -->
+<!-- 
+Badges I have used here:
+https://naereen.github.io/badges/ 
+https://github.com/Ileriayo/markdown-badges
+-->
 
 ## 2024 personal projects
 
