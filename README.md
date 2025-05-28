@@ -6,7 +6,7 @@
 
 ### [Advent of Code 2024](https://github.com/RandomSearch18/aoc-2024)
 
-[![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Built during Arcade 2024](https://badges.api.lorebooks.wiki/badges/hackclub/arcade)](https://hackclub.com/arcade)
+[![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![Made for Christmas 2024 badge](https://img.shields.io/badge/Made_for-%F0%9F%8E%84_Christmas_2024-0A2F00)
 
 My solutions for days 1-5 of the [2024 AoC challenges](https://adventofcode.com/2024/).
 
@@ -37,7 +37,6 @@ A basic web page made on the topic of the USB Type-C connector. View it online a
 We had to make a questionare program with Tkinter forms. This is it.
 
 ![Screenshot of a filled-out form](https://github.com/user-attachments/assets/d4ee8363-0173-4d93-a82b-5de7cab142ac)
-
 
 ### [Monopoly](https://github.com/RandomSearch18/monopoly)
 
