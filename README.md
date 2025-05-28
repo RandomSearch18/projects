@@ -1,6 +1,14 @@
 # RandomSearch's projects
 
+<!-- https://naereen.github.io/badges/ -->
+
 ## 2024 personal projects
+
+### [Advent of Code 2024](https://github.com/RandomSearch18/aoc-2024)
+
+[![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Built during Arcade 2024](https://badges.api.lorebooks.wiki/badges/hackclub/arcade)](https://hackclub.com/arcade)
+
+My solutions for days 1-5 of the [2024 AoC challenges](https://adventofcode.com/2024/).
 
 ### [Kivy flashcards](https://github.com/RandomSearch18/kivy-flash-cards)
 
@@ -13,6 +21,23 @@ I learnt to use Kivy (a cross-platform Python app framework) over the summer by 
 | ![The flashcards program running on desktop Linux, showing the question part of a flashcard](https://github.com/RandomSearch18/kivy-flash-cards/blob/master/assets/desktop/question.png) | ![The flashcards program running on Android, with a popup for editing the flashcards data and an on-screen keyboard](https://github.com/RandomSearch18/kivy-flash-cards/blob/master/assets/android/editor.png?raw=true) |
 
 ## 2023 school assignments
+
+### [USB-C is great](https://github.com/RandomSearch18/basic-webpage)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+A basic web page made on the topic of the USB Type-C connector. View it online at **<https://star.slevel.xyz>**.
+
+[![Screenshot of the webpage](https://github.com/user-attachments/assets/caa02a60-7eec-4ba3-b0fa-afdc96cfb45e)](https://star.slevel.xyz/)
+
+### [Tkinter forms](https://github.com/RandomSearch18/tkinter-forms)
+
+[![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+We had to make a questionare program with Tkinter forms. This is it.
+
+![Screenshot of a filled-out form](https://github.com/user-attachments/assets/d4ee8363-0173-4d93-a82b-5de7cab142ac)
+
 
 ### [Monopoly](https://github.com/RandomSearch18/monopoly)
 
@@ -33,7 +58,6 @@ A wack-a-mole game made using Pygame.
 ### [A Bit Racey](https://github.com/RandomSearch18/a-bit-racey)
 
 [![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
 
 A car-themed arcade game built using the power of Pygame. Supports keyboard or touchsceen input.
 
@@ -81,4 +105,29 @@ A menu-based song library management tool, based on the [OCR GCSE Computer Scien
 
 ![Screenshot of OCRtunes running in the terminal](https://github.com/user-attachments/assets/b04340a6-f86a-4f72-ac0a-aa09c7bd53bc)
 
-V
+### [Hangman](https://github.com/RandomSearch18/new-hangman)
+
+[![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+A simple terminal hangman game.
+
+<!--![image](https://github.com/user-attachments/assets/03492533-32e1-44de-94ac-39973af8c917)-->
+![Screenshot of the end of the game](https://github.com/user-attachments/assets/03017753-6744-485b-9f6d-9d9d57757437)
+
+
+### [Noughts and Crosses](https://github.com/RandomSearch18/noughts-and-crosses)
+
+[![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+A simple terminal noughts and crosses game. Doesn't seem to function in its current state. Maybe there's a newer version on my Replit or something.
+
+![Screenshot of the starting position](https://github.com/user-attachments/assets/70012486-5bf6-4bd4-aea1-303c6a376004)
+
+### [Mastermind](https://github.com/RandomSearch18/mastermind)
+
+A terminal-based implementation of the Mastermind game.
+
+![Screenshot of the "customise your game" screen](https://github.com/user-attachments/assets/8942a24b-3a0b-4ca2-a8b1-df134d9f74f9)
+![Screenshot of gameplay](https://github.com/user-attachments/assets/33350308-62ca-45be-870b-31cf1b1ab1f9)
+
+
