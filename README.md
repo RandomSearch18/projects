@@ -133,4 +133,8 @@ A terminal-based implementation of the Mastermind game.
 ![Screenshot of the "customise your game" screen](https://github.com/user-attachments/assets/8942a24b-3a0b-4ca2-a8b1-df134d9f74f9)
 ![Screenshot of gameplay](https://github.com/user-attachments/assets/33350308-62ca-45be-870b-31cf1b1ab1f9)
 
+## Other repositories
 
+### [Thorpe Park physics](https://github.com/RandomSearch18/thorpe-park-physics)
+
+Accelerometer/gyroscope recordings, and GNSS location data for various rides in [Thorpe Park, England](https://en.wikipedia.org/wiki/Thorpe_Park). For science!
