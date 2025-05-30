@@ -8,7 +8,32 @@ https://github.com/Ileriayo/markdown-badges
 
 ## 2025 personal projects
 
-### Black Box block game
+### [PDF Cutter](https://github.com/RandomSearch18/pdf-cutter)
+
+[![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+My school has a limit on the number of pages you can include in one print job, so I made a tool to split large PDFs into 30-page-sized chunks.
+
+![PDF Cutter running in a terminal](https://github.com/RandomSearch18/pdf-cutter/raw/main/docs/example-output.png)
+![PDF Cutter's PDF chunks in a file manager](https://github.com/RandomSearch18/pdf-cutter/raw/main/docs/pdf-parts.png)
+
+### [Paint 2D](https://github.com/RandomSearch18/paint-2d)
+
+![Rust badge](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+A two-dimensional painting app that runs in your terminal. Made in Rust with the crossterm library, which means it works on Linux, Windows, macOS and Android. Supports exporting to a file and mouse input, and was surprisingly fun.
+
+![Screenshot of a drawing made in the program](https://github.com/RandomSearch18/paint-2d/blob/master/images/Karolina_art.png)
+
+### [Calculator? I barely know her!](https://github.com/RandomSearch18/calculator-i-barely-know-her)
+
+![HTML5 badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+A project made by me and three friends for [Scrapyard](https://scrapyard.hackclub.com/), a hackathon with a theme of making useless things. It is as terrible as it looks. Visit <https://calculate-her.netlify.app/> if you dare.
+
+![Screenshot of the web app](https://github.com/user-attachments/assets/8fd17570-c8b3-48c5-9a29-d454d4fddfa8)
+
+### [Black Box block game](https://github.com/RandomSearch18/black-box-block-game)
 
 ![C badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
