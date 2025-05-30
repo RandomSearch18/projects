@@ -6,6 +6,56 @@ https://naereen.github.io/badges/
 https://github.com/Ileriayo/markdown-badges
 -->
 
+## 2025 personal projects
+
+### Black Box block game
+
+![C badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+A Tetris-like game weitten in C, made to run on the "Black Box" device (a microcontroller with a 8x8 LED matrix and buttons).
+
+![Black Box LED matrix showing the game being played](https://github.com/RandomSearch18/projects/blob/master/assets/black-box-game.svg)
+
+### [Blåhaj cookie cutter](https://github.com/RandomSearch18/blahaj-cookie-cutter)
+
+3D-printable cookie cutter in the shape of a shark. What more do you need to know? :)
+
+![Screenshot of the design in OnShape](https://github.com/RandomSearch18/blahaj-cookie-cutter/raw/master/blahaj-cookie-cutter-design.png)
+
+### [Micro Flashcards](https://github.com/RandomSearch18/micro-flashcards)
+
+![HTML5 badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+A basic flashcards web app, code-golfed to fit within 969 bytes. Has zero styling and questional usability, but does technically check all the boxes for a Leitner box system. Try it out at <https://micro-flashcards.netlify.app>.
+
+![Screenshot of Micro Flashcards](https://github.com/user-attachments/assets/29dbf344-d61d-49dd-8709-e968cded8f68)
+
+### [QR Flashcards](https://github.com/RandomSearch18/qr-tool)
+
+![HTML5 badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+A Leitner box/flashcards web app that can entirely fit on a QR code. No external resources or network access required!
+
+| Screenshot | Run it! |
+| -- | -- |
+| ![](https://github.com/RandomSearch18/qr-tool/raw/main/screenshot-v0.2.png) | [![QR code for running the app](https://github.com/RandomSearch18/qr-tool/raw/main/qr-2025-03-10.png)](https://github.com/RandomSearch18/qr-tool#run-the-app)
+
+### [vite-plugin-emit-qr](https://github.com/RandomSearch18/vite-plugin-emit-qr)
+
+A Vite plugin that automatically encodes the data for your web app into a QR code. Can be used for making apps that run entirely from a QR code. You can try it out [on CodeSandbox](https://codesandbox.io/p/github/RandomSearch18/vite-plugin-emit-qr/main).
+
+![The tool running in CodeSandbox](https://github.com/RandomSearch18/vite-plugin-emit-qr/raw/main/codesandbox-demo.png)
+
+## 2025 school projects
+
+### [Marvellous Mapping Machine](https://github.com/RandomSearch18/marvellous-mapping-machine)
+
+![TypeScript badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+My assessed A-level Computer Science programming project. A pedestrian routing web app that uses OpenStreetMap data.
+
+![Screenshot of one of the screens in the routing app](https://github.com/user-attachments/assets/21c73c84-6449-471a-a1c1-9a87bbe433be)
+
 ## 2024 personal projects
 
 ### [Advent of Code 2024](https://github.com/RandomSearch18/aoc-2024)
@@ -13,6 +63,25 @@ https://github.com/Ileriayo/markdown-badges
 [![Made with Python badge](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![Made for Christmas 2024 badge](https://img.shields.io/badge/Made_for-%F0%9F%8E%84_Christmas_2024-0A2F00)
 
 My solutions for days 1-5 of the [2024 AoC challenges](https://adventofcode.com/2024/).
+
+### [Mid-Kinght Snacks](https://github.com/RandomSearch18/mid-knight-snacks)
+
+<p align="left">
+  <img hspace="4" src="https://img.shields.io/badge/a%20counterspell%20game-FEC2FB%3F?style=for-the-badge&logo=undertale&logoColor=ffffff&color=FF4186" alt="A Counterspell Game">
+  <img hspace="4" src="https://img.shields.io/badge/made%20for%20high%20seas-FEC2FB?style=for-the-badge&logo=hackclub&logoColor=1C4188" alt="Made for High Seas">
+</p>
+
+A game made with two of my friends for the [Counterspell](https://counterspell.hackclub.com/) game jam/hackathon.
+
+![Screenshot of the game, showing some bricks layed out to make a platformer map](https://github.com/RandomSearch18/mid-knight-snacks/blob/master/demos/mid-knight-snacks.png)
+
+### [Rusty-Man Computer](https://github.com/RandomSearch18/rusty_man_computer)
+
+![Rust badge](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+An emulator for the [Little Man Computer](https://en.wikipedia.org/wiki/Little_Man_Computer) (LMC), written in Rust. Try it online by viewing the [CodeSandbox version](https://codesandbox.io/p/github/RandomSearch18/rusty_man_computer/) and running some demos (documented in the README). The screenshot below shows an example program printing ASCII characters.
+
+![Screenshot of the tool printing a buch of ASCII characters](https://github.com/RandomSearch18/rusty_man_computer/raw/master/assets/terminal-demo-1.png)
 
 ### [Kivy flashcards](https://github.com/RandomSearch18/kivy-flash-cards)
 
@@ -24,13 +93,27 @@ I learnt to use Kivy (a cross-platform Python app framework) over the summer by 
 | -- | -- |
 | ![The flashcards program running on desktop Linux, showing the question part of a flashcard](https://github.com/RandomSearch18/kivy-flash-cards/blob/master/assets/desktop/question.png) | ![The flashcards program running on Android, with a popup for editing the flashcards data and an on-screen keyboard](https://github.com/RandomSearch18/kivy-flash-cards/blob/master/assets/android/editor.png?raw=true) |
 
+## [Outstanding](https://github.com/RandomSearch18/outstanding)
+
+Yet another markdown-based note-taking app. Uses the Monaco Editor, Material Design, and the Filesystem Access API. Take a look at <https://outstanding.slevel.xyz/>
+
+![Screenshot of the main UI](https://github.com/user-attachments/assets/62911b96-e5fb-4388-9ee2-6abf1d0a88c6)
+
+## 2024 school assignments
+
+### [Traffic light tutorial](https://github.com/RandomSearch18/traffic-light-tutorial)
+
+A webpage for teaching novice drivers the principles of traffic lights. If nothing else, it looks quite cool with how the page's accent colour changes with the lights. Take a look at <https://traffic-lights.slevel.xyz/>/
+
+![Screenshot of the top of the webpage](https://github.com/user-attachments/assets/3d198ff6-e6f0-4f3b-b358-958af1b1734d)
+
 ## 2023 school assignments
 
 ### [USB-C is great](https://github.com/RandomSearch18/basic-webpage)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5 badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-A basic web page made on the topic of the USB Type-C connector. View it online at **<https://star.slevel.xyz>**.
+A basic web page made on the topic of the USB Type-C connector. View it online at <https://star.slevel.xyz>.
 
 [![Screenshot of the webpage](https://github.com/user-attachments/assets/caa02a60-7eec-4ba3-b0fa-afdc96cfb45e)](https://star.slevel.xyz/)
 
